@@ -10,8 +10,24 @@ li{
 }
 .first{
 	background-color:white;
+	border:2px solid black
+	
 }
 .player_one{
 	background-color:rgb(255, 255, 255);
+	width:95%;
+	margin:15px;
 	
+}
+.second{
+	background-color:white;
+	width:80%;
+	border:2px solid black;
+	margin-left:80px;
+}
+.player_two{
+	background-color:rgb(255, 255, 255);
+	width:95%;
+	margin-left:18px;
+	height:40px
 }
